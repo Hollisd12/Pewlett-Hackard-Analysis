@@ -16,6 +16,7 @@ We pulled the number of retiring employees based on their birthdate being betwee
 
 ### Employees eligible for the mentorship program
 Below is a sample of our analysis on employees who are eligible for the mentorship program.
+
 ![employees_eligible_mentorship](https://user-images.githubusercontent.com/112137694/206063609-e004af14-ce09-4762-9eca-38b962e613f5.png)
 
 There are roughly 1,550 employees that are eligible for the mentorship program. Of these eligible employees, only 10% hold the title Staff. The other titles include Assistant Engineer, Senior Engineer, Senior Staff, and Technician Leader. 37% of the eligible employees for the mentorship hold the Senior Staff title. From this analysis, there are a few takeaways:
